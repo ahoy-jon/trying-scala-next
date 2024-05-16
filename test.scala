@@ -1,5 +1,5 @@
 //> using dep com.lihaoyi::os-lib:0.9.3
-//> using scala 3.5.0-RC1
+//> using scala 3.4.2
 //> using dep com.softwaremill.ox::core:0.0.25
 
 import ox.*
